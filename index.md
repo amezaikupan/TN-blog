@@ -1,4 +1,3 @@
 ---
-layout: home
-title: TN blog
+title: Welcome to my blog
 ---
