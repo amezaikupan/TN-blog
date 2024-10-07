@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
+Tu Nhi blog
 ---
-
-This is my blog :0
 
